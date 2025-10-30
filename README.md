@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Patil</h1>
-<h3 align="center">A fullstack developer from India building AI-powered & accessible web apps 🌍</h3>
+<h3 align="center">A fullstack developer building AI-powered & accessible web apps 🌍</h3>
 
 - 🔭 I’m currently working on **LawSathi**
 
