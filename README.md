@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Patil</h1>
 <h3 align="center">A fullstack developer building AI-powered & accessible web apps 🌍</h3>
 
-- 🔭 I’m currently working on **LawSathi**
+- 🔭 I’m currently working on **Velo**
 
 - 🌱 I’m currently learning **DeepLearning**
 
