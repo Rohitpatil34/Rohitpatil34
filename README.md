@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Velo**
 
-- 🌱 I’m currently learning **DeepLearning**
-
 - 💬 Ask me about **MERN , Machine Learning**
 
 - 📫 How to reach me **rohit5003patil@gmail.com**
