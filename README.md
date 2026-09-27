@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Velo**
 
-- 💬 Ask me about **MERN , Machine Learning**
+- 💬 Ask me about **MERN , Machine Learning, Database**
 
 - 📫 How to reach me **rohit5003patil@gmail.com**
 
